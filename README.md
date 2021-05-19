@@ -18,8 +18,8 @@
   <img alt="Frontend" src=".github/index.png" width="100%">
 </p>
 
+<p>Versão responsiva do mobile</p>
 <p align="center">
-    Versão responsiva do mobile
   <img alt="Frontend" src=".github/mobile.png">
 </p>
 
